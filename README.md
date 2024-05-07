@@ -3,6 +3,7 @@ This repository contains a simple implementation of the classic Tic-Tac-Toe game
 
 <h2>Features</h2>
 - Play against the computer or other players locally.
+
 - Graphical interface using the Pygame engine.
 
 <h2>How to play</h2>
