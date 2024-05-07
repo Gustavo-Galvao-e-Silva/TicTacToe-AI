@@ -28,9 +28,8 @@ def main():
         pg.display.flip()
         draw_game_state(screen, gs.game_state)
         if gs.check_winner(gs.game_state)[0]:
-            print(f"The winner is: {gs.check_winner(gs.game_state)[1]}")
+            print(f"The winner is: {gs.check_winner(gs.game_state)[1]}!")
             running = False
-
 
 
 def draw_game_state(screen, board):
