@@ -22,3 +22,6 @@ class GameEngine:
                 if line == [ele, ele, ele]:
                     return [True, ele]
         return [False, None]
+
+    def __str__(self):
+        return f'{self.game_state[0]}\n{self.game_state[1]}\n{self.game_state[2]}'
