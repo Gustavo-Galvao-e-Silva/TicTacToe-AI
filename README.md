@@ -19,9 +19,9 @@ P.S.: Make sure you have the Pygame module installed before running the file. To
 
 <h2>Requirements</h2>
 
--Python 3.12
+- Python 3.12
 
--Pygame
+- Pygame
 
 <h2>Contributing</h2>
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
