@@ -1,4 +1,4 @@
-<h1>Chess Tic-tac-toe with AI</h1>
+<h1>Tic-tac-toe with AI</h1>
 This repository contains a simple implementation of the classic Tic-Tac-Toe game in Python, featuring an AI opponent. The game is built using the Pygame engine for a graphical interface.
 
 <h2>Features</h2>
