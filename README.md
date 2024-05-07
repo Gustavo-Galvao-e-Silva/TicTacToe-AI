@@ -2,6 +2,7 @@
 This repository contains a simple implementation of the classic Tic-Tac-Toe game in Python, featuring an AI opponent. The game is built using the Pygame engine for a graphical interface.
 
 <h2>Features</h2>
+
 - Play against the computer or other players locally.
 
 - Graphical interface using the Pygame engine.
