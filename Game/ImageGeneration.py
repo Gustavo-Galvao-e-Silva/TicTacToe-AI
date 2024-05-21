@@ -27,8 +27,7 @@ def main():
                 gs.move(row, column)
         pg.display.flip()
         draw_game_state(screen, gs.game_state)
-        if gs.check_winner(gs.game_state)[0]:
-            print(f"The winner is: {gs.check_winner(gs.game_state)[1]}!")
+        if gs.game_finished(gs.game_state)[0]:
             running = False
 
 
